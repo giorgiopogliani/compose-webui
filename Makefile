@@ -1,3 +1,5 @@
+.DEFAULT_GOAL := build
+
 .PHONY: frontend backend build dev
 
 frontend:
